@@ -1,0 +1,222 @@
+#contact{
+    color:white;
+}
+#head{
+    display:grid;
+    grid-template-columns: 2fr 5fr;
+    background:#20191B;
+    color:white;
+}
+#name{
+    letter-spacing: 6px;
+    font-weight: bold;
+}
+#underline{
+    width:300px;
+    height: 6px;
+    background-color: wheat;
+    margin-top: 10px;
+}
+#passport{
+    height: 130px;
+    width: 130px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+.fa-github{
+    color:wheat;
+    
+}
+.fa-facebook{
+    color:wheat; 
+}
+.fa-linkedin-in{
+    color:wheat;
+}
+.fa-arrow-up{
+    color:#20191B;
+}
+.fa-map-marker-alt{
+    color:#20191B;
+}
+#career{
+    color:#20191B;
+    font-size: 1.5rem;
+    background-color:wheat;
+    padding:10px;
+}
+#py{
+    display: grid;
+    grid-template-columns: 0.2fr 0.5fr;
+}
+#c{
+        display: grid;
+        grid-template-columns: 0.2fr 0.5fr;
+}
+#html{
+    display: grid;
+        grid-template-columns: 0.2fr 0.5fr;
+}
+#MS{
+    display: grid;
+    grid-template-columns: 0.3fr 0.5fr;
+}
+#os{
+    display: grid;
+    grid-template-columns: 0.3fr 0.5fr;
+}
+#vb{
+    display: grid;
+    grid-template-columns: 0.3fr 0.5fr;
+}
+.skills{
+    display: grid;
+        grid-template-columns: 1fr 1fr;
+}
+#progress-bar{
+    background:wheat;
+    margin-top:5px;
+    height: 10px;
+    width: 100px;
+
+}
+#progress{
+    background:#20191B;
+    height: 10px;
+    width: 70px;
+}
+#progress1{
+    background:#20191B;
+    height: 10px;
+    width: 80px;
+}
+#progress2{
+    background:#20191B;
+    height: 10px;
+    width: 70px;
+}
+#progress3{
+    background:#20191B;
+    height: 10px;
+    width: 95px;
+}
+#language{
+    color:#20191B;
+    font-size: 1.5rem;
+    background-color:wheat;
+    padding:10px;
+}
+#boundary{
+    padding: 0px;
+    margin-top: 10px;
+}
+#education{
+    color:#20191B;
+    font-size: 1.5rem;
+    background-color:wheat;
+    padding:10px;
+}
+#skills{
+    margin-top:20px;
+    color:#20191B;
+    font-size: 1.5rem;
+    background-color:wheat;
+    padding:10px; 
+}
+#certificate{
+    color:#20191B;
+    font-size: 1.5rem;
+    background-color:wheat;
+    padding:10px;
+}
+#Projects{
+    color:#20191B;
+    font-size: 1.5rem;
+    background-color:wheat;
+    padding:10px;
+}
+#git{
+    border: 0.3rem solid wheat;
+    background: #20191B;
+    text-decoration:none;
+    margin-left: 5px;
+    margin-top: 7px;
+    margin-bottom: 1px;
+    padding: 2rem 13rem;
+    text-transform: uppercase;
+    cursor:pointer;
+    color: wheat;
+}
+#table{
+    padding: 5px 5px;
+    width: 100%;
+    color:rgb(8, 4, 4);
+    
+}
+
+
+th {
+  height: 50px;
+}
+#pa{
+    color:rgb(8, 4, 4);
+    font-weight: lighter;
+    font-size: 17px; 
+    padding:10px;
+}
+ul li{
+    list-style-type: disc;
+    color:rgb(8, 4, 4);
+    font-size: 17px;
+    word-spacing:0px;
+    padding: 1.5px;
+}
+
+#address{
+    color:#20191B;
+    font-size: 1.5rem;
+    background-color:wheat;
+    padding:10px; 
+}
+#skill{
+    color:#20191B;
+    font-size: 1.5rem;
+    background-color:wheat;
+    padding:10px;
+}
+#add{
+    color:#20191B;
+    font-size: 1.4rem;
+    padding:10px; 
+}
+#top{
+    color:#20191B;
+    font-size: 13px;
+    margin-top:5px;
+}
+#container1{
+    text-align:center;
+}
+#print{
+    font-size: 13px;
+    padding: 10px;
+    border-radius:15px;
+    margin:10px;
+    background: #20191B;
+    color: wheat;
+}
+#cover{
+    font-size: 10px;
+    padding: 3px;
+    margin:6px;
+    background: #20191B;
+    color: wheat;
+}
+#close{
+    font-size: 10px;
+    padding: 3px;
+    margin:3px;
+    background: #20191B;
+    color: wheat;
+}
